@@ -1,0 +1,3 @@
+[submodule "plugins/tmux-better-mouse-mode"]
+	path = plugins/tmux-better-mouse-mode
+	url = https://github.com/NHDaly/tmux-better-mouse-mode.git
